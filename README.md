@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ZOHER</h1>
+<h1 align="center">Hi 👋, I'm 0x7a</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
